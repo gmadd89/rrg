@@ -17,7 +17,7 @@ Kentucky's Red River Gorge National Geological Area
 *Under Castle Arch*, photo by Adam Thompson
 
 ![Basemap in Application](images/Basemap_in_Action.jpg) 
-*Under Castle Arch*, photo by Greg Madden
+*Basemap in Application*, photo by Greg Madden
 
 
 https://gmadd89.github.io/rrg/
