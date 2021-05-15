@@ -11,8 +11,10 @@ Kentucky's Red River Gorge National Geological Area
 [Download a GeoPDF of of Sky Bridge and Castle Arch](basemap/rrg_SkyBridge_CastleArch.pdf)
 
 ![Sky Bridge by William Fultz II](images/Sky_Bridge.jpg) 
+*Looking up at Sky Bridge*, photo by William Fultz II
 
 ![Castle Arch by Adam Thompson](images/Castle_Arch.jpg) 
+*Under Castle Arch*, photo by Adam Thompson
 
 
 https://gmadd89.github.io/rrg/
