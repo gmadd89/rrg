@@ -6,7 +6,7 @@ Kentucky's Red River Gorge National Geological Area
 
 [Download a GeoPDF of Arches in Red River Gorge](basemap/rrg.pdf)
 
-## A Base map of Sky Bridge and Castle Arch in Red River Gorge
+## A map of Sky Bridge and Castle Arch in Red River Gorge
 
 [Download a GeoPDF of of Sky Bridge and Castle Arch](basemap/rrg_SkyBridge_CastleArch.pdf)
 
