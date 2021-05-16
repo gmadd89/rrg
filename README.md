@@ -28,10 +28,10 @@ Kentucky's Red River Gorge National Geological Area
 ## Animation
 ![Animation 3D Angel Windows by Greg Madden](images/AngelWindowsAnimation.jpg)
 
-[Link to video] (https://youtu.be/)
+[Link to video] (https://youtu.be/IzeE7buvUyk)
 
 Web page at: [https://gmadd89.github.io/rrg/](https://gmadd89.github.io/rrg/)
 
 ## Interactive Map
-![Potree point cloud render](images/potree.jpg)
+![Potree Point Cloud Render](images/potree.jpg)
 [link to Potree point cloud render](potree)
