@@ -31,6 +31,3 @@ Web page at: [https://gmadd89.github.io/rrg/](https://gmadd89.github.io/rrg/)
 ![Potree Point Cloud Render](images/potree.jpg)
 
 [link to Potree point cloud render](potree)
-
-## At the time of publishing, It appears that GitHub Pages was having an issue with their commits to the online platform. Online forum on GitHub revealed that a number of others were having the same issue when trying to update pages, where the repo would update but not the website. An incident report has been sent to GitHub and I will try to push this again once the issue is resolved. Here is the link to the forum.
-Web page at: [https://github.community/t/unable-to-build-page-please-try-again-later/122613/20](https://github.community/t/unable-to-build-page-please-try-again-later/122613/20)
