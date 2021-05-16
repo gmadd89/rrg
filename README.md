@@ -31,3 +31,6 @@ Web page at: [https://gmadd89.github.io/rrg/](https://gmadd89.github.io/rrg/)
 ![Potree Point Cloud Render](images/potree.jpg)
 
 [link to Potree point cloud render](potree)
+
+## Site Map of Natural Bridge
+Web page at: [link to site map](site-map/index.html)
