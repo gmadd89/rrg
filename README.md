@@ -6,9 +6,15 @@ Kentucky's Red River Gorge National Geological Area
 
 [Download a GeoPDF of Arches in Red River Gorge](basemap/rrg.pdf)
 
+## An image of GeoPDF
+![rrg by Greg Madden](images/rrg.jpg) 
+
 ## A map of Sky Bridge and Castle Arch in Red River Gorge
 
 [Download a GeoPDF of of Sky Bridge and Castle Arch](basemap/rrg_SkyBridge_CastleArch.pdf)
+
+## An image of GeoPDF for Sky Bridge and Castle Arch
+![rrg_SkyBridge_CastleArch by Greg Madden](images/rrg_SkyBridge_CastleArch.jpg) 
 
 ![Sky Bridge by William Fultz II](images/Sky_Bridge.jpg) 
 *Looking up at Sky Bridge*, photo by William Fultz II
@@ -16,8 +22,16 @@ Kentucky's Red River Gorge National Geological Area
 ![Castle Arch by Adam Thompson](images/Castle_Arch.jpg) 
 *Under Castle Arch*, photo by Adam Thompson
 
-![Basemap in Application](images/Basemap_in_Action.jpg) 
-*Basemap in Application*, photo by Greg Madden
+## A 3D Map of Angel Windows
+![3D Angel Windows by Greg Madden](images/AngelWindows.jpg)
 
+## Animation
+![Animation 3D Angel Windows by Greg Madden](images/AngelWindowsAnimation.jpg)
 
-https://gmadd89.github.io/rrg/
+[Link to video] (https://youtu.be/)
+
+Web page at: [https://gmadd89.github.io/rrg/](https://gmadd89.github.io/rrg/)
+
+## Interactive Map
+![Potree point cloud render](images/potree.jpg)
+[link to Potree point cloud render](potree)
