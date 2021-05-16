@@ -34,3 +34,6 @@ Web page at: [https://gmadd89.github.io/rrg/](https://gmadd89.github.io/rrg/)
 
 ## Site Map of Natural Bridge
 Web page at: [link to site map](site-map/index.html)
+
+## Tour of Natural Bridge
+Web page at: [link to Tour](tour/index.html)
